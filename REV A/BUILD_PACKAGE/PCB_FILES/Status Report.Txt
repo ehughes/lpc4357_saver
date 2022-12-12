@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [lpc4357-save.PcbDoc]
+   Generated File[lpc4357-save.TXT]
+   Generated File[lpc4357-save.LDP]
+   Generated File[lpc4357-save.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:17:20 AM On 12/12/2022
